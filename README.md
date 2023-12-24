@@ -1,1 +1,1 @@
-# Hosted Link : https://github.com/Av0011/Password_generator
+# Hosted Link : https://password-gen-1.netlify.app/
